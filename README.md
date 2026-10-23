@@ -25,7 +25,7 @@ Grant listed publicly on [Marginal Revolution](https://marginalrevolution.com/ma
 - **SmartAdmin**: took over a live CRM for spa and bath complexes mid-flight and kept it running.
 - **ENTprep**: exam prep for Kazakhstan's national university test, 3,000 students in month one.
 - **Steal Anime Chibis**: my Roblox game, live. **Dead Depths**: a co-op submarine roguelike, in development.
-- Hackathons: [Mimic](https://github.com/DarkKz1/chessmate-kz) (chess that remembers your mistakes), [Insider Guard](https://github.com/DarkKz1/insider-guard), [Birge](https://github.com/DarkKz1/hackathon-birge), [Esep](https://github.com/DarkKz1/esep).
+- Hackathons: [Mimic](https://github.com/foustie/chessmate-kz) (chess that remembers your mistakes), [Insider Guard](https://github.com/foustie/insider-guard), [Birge](https://github.com/foustie/hackathon-birge), [Esep](https://github.com/foustie/esep).
 
 ### Stack
 
