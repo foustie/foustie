@@ -1,4 +1,6 @@
-<img src="banner.jpg" alt="Diyar Zhakpelov, Persona 5 style main menu" width="100%">
+<a href="https://diyar.atla.kz"><img src="banner.jpg" alt="Diyar Zhakpelov, Persona 5 style main menu" width="100%"></a>
+
+**[▶ Play my portfolio: diyar.atla.kz](https://diyar.atla.kz)**
 
 ### Diyar Zhakpelov · 18 · Almaty
 
@@ -32,4 +34,4 @@ TypeScript · React · Next.js · Supabase · Postgres · Python · Go · Cloudf
 ### Calling card
 
 Got an idea stuck in your head? I will take it and ship it.
-**[dzakpelov@gmail.com](mailto:dzakpelov@gmail.com)** · [atla.kz](https://atla.kz)
+**[dzakpelov@gmail.com](mailto:dzakpelov@gmail.com)** · [diyar.atla.kz](https://diyar.atla.kz) · [atla.kz](https://atla.kz)
