@@ -7,7 +7,7 @@ I build products businesses pay for and games kids play. Founder of **[Atla](htt
 | | |
 |---|---|
 | **$24,000** | in deals signed by Atla in its first month |
-| **$10,000** | Emergent Ventures grant, first from Central Asia |
+| **$10,000** | Emergent Ventures grant, first from Kazakhstan |
 | **3,000** | users on ENTprep in the first month, zero ad budget |
 | **3** | car businesses paid me to build their systems |
 | **₸10M** | agreement with a 40-person firm in Astana |
