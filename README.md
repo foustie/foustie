@@ -12,7 +12,9 @@ I build products businesses pay for and games kids play. Founder of **[Atla](htt
 | **3** | car businesses paid me to build their systems |
 | **₸10M** | agreement with a 40-person firm in Astana |
 
-**Alum of the nFactorial incubator** (demo day 24.07.2026).
+**2nd place at nFactorial Incubator 2026**, out of 2,500+ applicants ([Tengrinews](https://tengrinews.kz/kazakhstan_news/v-kazahstane-vyibrali-luchshie-startapyi-605441/)).
+
+Grant listed publicly on [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2026/06/emergent-ventures-winners-55th-cohort.html).
 
 ### Palaces
 
